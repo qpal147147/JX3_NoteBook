@@ -21,6 +21,9 @@ public class Delete extends JFrame {
 	 * Create the frame.
 	 */
 	public Delete() {
+		setTitle("\u522A\u9664\u8CC7\u6599");
+		ImageIcon imgIco = new ImageIcon("image\\JX3NoteBook.png");
+		setIconImage(imgIco.getImage());
 		setResizable(false);
 		setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
 		setBounds(100, 100, 568, 486);
