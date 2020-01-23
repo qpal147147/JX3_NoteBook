@@ -18,4 +18,4 @@
 資料全儲存於同目錄下的List.csv檔，若無檔案則會自動新增。
   
 ## :notebook_with_decorative_cover:如何共享
-只需分享List.csv檔即可。
+只需分享List.csv檔即可，必須將檔案和執行檔(*.exe)放在同目錄下。
