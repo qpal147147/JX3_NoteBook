@@ -14,6 +14,7 @@ import javax.swing.JComboBox;
 import javax.swing.JTextArea;
 import com.toedter.calendar.JDateChooser;
 import java.awt.Color;
+import java.awt.Toolkit;
 
 public class Window extends JFrame {
 
@@ -31,6 +32,9 @@ public class Window extends JFrame {
 	 * Create the frame.
 	 */
 	public Window() {
+		ImageIcon imgIco = new ImageIcon("image\\JX3NoteBook.png");
+		setIconImage(imgIco.getImage());
+		setTitle("\u528D\u4E09\u8A18\u4E8B\u672C");
 		setResizable(false);
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 594, 573);
