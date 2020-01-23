@@ -14,6 +14,18 @@
 若無安裝Java，則須先安裝Java才能開啟。[點我前往](https://www.java.com/zh_TW/download/)<br>
 如果不清楚是否有安裝，可先執行檔案確認，無法開啟會自動開啟瀏覽器至下載頁面。
   
+畫面參考：  
+  
+* 主畫面
+
+![image](https://raw.githubusercontent.com/qpal147147/JX3_NoteBook/master/Sample%20Image/SampleImage_1.jpg)
+* 刪除
+
+![image](https://raw.githubusercontent.com/qpal147147/JX3_NoteBook/master/Sample%20Image/SampleImage_2.jpg)
+* 查詢
+
+![image](https://raw.githubusercontent.com/qpal147147/JX3_NoteBook/master/Sample%20Image/SampleImage_3.jpg)
+  
 ## :notebook_with_decorative_cover:資料儲存
 資料全儲存於同目錄下的List.csv檔，若無檔案則會自動新增。
   
