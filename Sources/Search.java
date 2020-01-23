@@ -60,6 +60,9 @@ public class Search extends JFrame implements ItemListener{
 	 * Create the frame.
 	 */
 	public Search() {
+		setTitle("\u67E5\u8A62\u8CC7\u6599");
+		ImageIcon imgIco = new ImageIcon("image\\JX3NoteBook.png");
+		setIconImage(imgIco.getImage());
 		setResizable(false);
 		setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
 		setBounds(100, 100, 612, 535);
