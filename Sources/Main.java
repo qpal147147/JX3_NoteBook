@@ -7,6 +7,7 @@ public class Main {
 		EventQueue.invokeLater(new Runnable() {
 			public void run() {
 				
+				
 				try {
 					UIManager.setLookAndFeel(UIManager.getSystemLookAndFeelClassName());
 					Window frame = new Window();
